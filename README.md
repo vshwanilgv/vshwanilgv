@@ -4,7 +4,7 @@
 <h2 align="center"> My Web and Application Tech Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,java,c,react,springboot,nodejs,nextjs&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,react,springBoot,nodejs,nextjs&theme=dark&perline=10" />
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=8" />
 </div>
