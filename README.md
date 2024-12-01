@@ -1,6 +1,6 @@
 <h1>Hi I'm Vishwani Bhagya.</h1>
 <h3>Welcome to my profile.</h3>
-<li></li>https://komarev.com/ghpvc/?username=vshwanilgv&style=flat-square</li>
+<li>https://komarev.com/ghpvc/?username=vshwanilgv&style=flat-square</li>
 
 <h2 align="center"> My Web and Application Tech Stack </h2>
 <br/>
