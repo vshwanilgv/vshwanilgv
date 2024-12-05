@@ -33,6 +33,6 @@
 <a  href="https://medium.com/@vshwanilgv"><img width="200px" height="60px" src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"></img></a>
 
 <h2>My HackerRank Account</h2>
-<a href="https://www.hackerrank.com/profile/bhagyalgv_21"><img src=https://skillicons.dev/icons?i=hackerank></img></a>
+<h4>Click Here<a href="https://www.hackerrank.com/profile/bhagyalgv_21"></a></h4>
 </div>
 
