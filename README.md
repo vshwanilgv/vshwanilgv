@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=arduino,python&theme=dark&perline=6" />
 </div>
 <br>
-<h2 align="center"> My DevOps Tech Stack </h2>
+<h2 align="center"> My DevOps Tech Stack</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=firebase,git,mysql,github,aws,postgres,githubactions,docker&theme=dark&perline=9" />
