@@ -19,7 +19,7 @@
 <h2 align="center"> AI/ML Tech Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,scikitlearn,numpy,pytorch&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch&theme=dark&perline=6" />
 </div>
 <br>
 <h2 align="center"> My DevOps Tech Stack</h2>
