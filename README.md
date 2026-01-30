@@ -1,4 +1,4 @@
-<h1>Hi I'm Vishwani Bhagya.</h1>
+<h1>Hi I'm Vishwani Bhagya Geeganage.</h1>
 <h3>Welcome to my profile.</h3>
 
 <h2 align="center"> My Web and Application Tech Stack </h2>
