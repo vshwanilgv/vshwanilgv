@@ -38,5 +38,8 @@
 
 <h2>Read my tech articles at Medium </h2>
 <a  href="https://medium.com/@vshwanilgv"><img width="200px" height="60px" src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"></img></a>
+
+<h2> Hugging Face </h2>
+<a  href="https://huggingface.co/vshwanilgv"><img width="200px" height="60px" src="https://uxwing.com/huggingface-icon/"></img></a>
 </div>
 
