@@ -1,6 +1,14 @@
 <h1>Hi I'm Vishwani Bhagya Geeganage.</h1>
 <h3>Welcome to my profile.</h3>
 
+<h2 align="center"> My Portfolio </h2>
+
+<div align="center">
+  <a href="https://vishwani.me">
+    <img src="https://skillicons.dev/icons?i=web&theme=dark" />
+  </a>
+</div>
+
 <h2 align="center"> My Web and Application Tech Stack </h2>
 <br/>
 <div align="center">
