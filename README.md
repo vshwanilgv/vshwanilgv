@@ -21,6 +21,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=8" />
 </div>
 <br>
+<h2 align="center"> My AI/ML Tech Stack </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch,tensarflow&theme=dark&perline=6" />
+</div>
+<br>
 <h2 align="center"> My Electronics IoT & Robotics Tech Stack </h2>
 <br/>
 <div align="center">
@@ -28,12 +34,7 @@
 </div>
 <br>
 <br>
-<h2 align="center"> My AI/ML Tech Stack </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch,tensarflow&theme=dark&perline=6" />
-</div>
-<br>
+
 <h2 align="center"> My DevOps Tech Stack</h2>
 <br/>
 <div align="center">
