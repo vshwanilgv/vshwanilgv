@@ -1,11 +1,11 @@
 <h1>Hi I'm Vishwani Bhagya Geeganage.</h1>
 <h3>Welcome to my profile.</h3>
 
-<h2 align="center"> My Portfolio </h2>
+<h2 align="center"> 🌐 My Portfolio </h2>
 
 <div align="center">
-  <a href="https://vishwani.me">
-    <img src="https://skillicons.dev/icons?i=web&theme=dark" />
+  <a href="https://vishwani.me" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
