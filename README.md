@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vshwanilgv&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vshwanilgv&show_icons=true&theme=dark" />
+</div>
+
 <h1>Hi I'm Vishwani Bhagya Geeganage.</h1>
 <h3>Welcome to my profile.</h3>
 
