@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=vshwanilgv&label=Profile%20Views&color=brightgreen&style=for-the-badge" /> 
 </div>
 
-<h1>Hi I'm Vishwani Bhagya Geeganage.</h1>
+<h1>Hi, I'm Vishwani Bhagya Geeganage.</h1>
 <h3>Welcome to my profile.</h3>
 
 <h2 align="center"> 🌐 My Portfolio </h2>
