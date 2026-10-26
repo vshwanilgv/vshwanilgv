@@ -21,6 +21,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,npm,express,postman,figma&theme=dark&perline=8" />
 </div>
 <br>
+
+<h2 align="center"> My DevOps Tech Stack</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=firebase,git,mysql,github,aws,postgres,githubactions,docke,kubernetes,linux,bash,terraform,r&theme=dark&perline=9" />
+</div>
+<br>
+<br>
 <h2 align="center"> My AI/ML Tech Stack </h2>
 <br/>
 <div align="center">
@@ -31,14 +39,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,python&theme=dark&perline=6" />
-</div>
-<br>
-<br>
-
-<h2 align="center"> My DevOps Tech Stack</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=firebase,git,mysql,github,aws,postgres,githubactions,docke,kubernetes,linux,bash,terraform,r&theme=dark&perline=9" />
 </div>
 <br>
 <div align="center">
